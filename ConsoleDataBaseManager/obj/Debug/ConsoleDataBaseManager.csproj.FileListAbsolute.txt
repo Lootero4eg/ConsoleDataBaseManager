@@ -1,0 +1,9 @@
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\bin\Debug\cdbm.exe.config
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\bin\Debug\cdbm.exe
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\bin\Debug\cdbm.pdb
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\bin\Debug\anvlib_core.dll
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\bin\Debug\Oracle.DataAccess.dll
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\bin\Debug\anvlib_core.pdb
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\obj\Debug\ConsoleDataBaseManager.csprojResolveAssemblyReference.cache
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\obj\Debug\cdbm.exe
+c:\users\crash\documents\visual studio 2012\Projects\ConsoleDataBaseManager\ConsoleDataBaseManager\obj\Debug\cdbm.pdb
